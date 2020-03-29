@@ -5,6 +5,9 @@
   - [Intro to Storybook](https://www.learnstorybook.com/intro-to-storybook/)
   - [Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers/)
   - [Visual Testing Handbook](https://www.learnstorybook.com/visual-testing-handbook/)
+  
+## 开发思想
+- [Component-Driven Development](https://blog.hichroma.com/component-driven-development-ce1109d56c8e)
 
 ## 开发手册
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet#reacttypescript-cheatsheets) Cheatsheets for experienced React developers getting started with TypeScript
