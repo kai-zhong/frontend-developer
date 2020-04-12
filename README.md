@@ -8,6 +8,7 @@
   
 ## 开发思想
 - [Component-Driven Development](https://blog.hichroma.com/component-driven-development-ce1109d56c8e)
+- [Advanced Typescript by Example: API Service Manager](https://medium.com/@rossbulat/advanced-typescript-by-example-api-service-manager-7ea591f5eba8)
 
 ## Interact with Web Service
 - [Fetch data with React Hooks and Typescript](https://dev.to/camilomejia/fetch-data-with-react-hooks-and-typescript-390c)
