@@ -9,5 +9,8 @@
 ## 开发思想
 - [Component-Driven Development](https://blog.hichroma.com/component-driven-development-ce1109d56c8e)
 
+## Interact with Web Service
+- [Fetch data with React Hooks and Typescript](https://dev.to/camilomejia/fetch-data-with-react-hooks-and-typescript-390c)
+
 ## 开发手册
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet#reacttypescript-cheatsheets) Cheatsheets for experienced React developers getting started with TypeScript
