@@ -12,6 +12,7 @@
 
 ## Interact with Web Service
 - [Fetch data with React Hooks and Typescript](https://dev.to/camilomejia/fetch-data-with-react-hooks-and-typescript-390c)
+- [Advanced Typescript by Example: API Service Manager](https://medium.com/@rossbulat/advanced-typescript-by-example-api-service-manager-7ea591f5eba8)
 
 ## 开发手册
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet#reacttypescript-cheatsheets) Cheatsheets for experienced React developers getting started with TypeScript
